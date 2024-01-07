@@ -25,29 +25,29 @@ Technical Skills: My technical toolkit includes Python, SQL, PowerBI, and a stro
         <h3>Spain's Electricity Shortfall</h3>
         <span>Pandas · Python · Git</span>
         <br>
-        <a href="LINK-TO-SPAIN-ELECTRICITY-SHORTFALL-REPO" target="_blank">View Repository</a>
+        <a href="https://github.com/Thandokazi-Dlamini/Spain-electricity-shortfall" target="_blank">View Repository</a>
         <br>
-        <a href="LINK-TO-SPAIN-ELECTRICITY-SHORTFALL-NOTEBOOK" target="_blank">View Notebook</a>
+        <a href="https://github.com/Thandokazi-Dlamini/Spain-electricity-shortfall/blob/main/Spain%20Electricity%20Shortfall%20Notebook.ipynb" target="_blank">View Notebook</a>
       </td>
       <td align="center" width="33%">
-        <img src="LINK-TO-YOUR-IMAGE" alt="Twitter Sentiment Analysis" style="width:100%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/twitt.jpg" alt="Twitter Sentiment Analysis" style="width:100%">
         <br>
         <h3>Twitter Sentiment Analysis</h3>
         <span>Pandas · Python · Git</span>
         <br>
-        <a href="LINK-TO-TWITTER-SENTIMENT-ANALYSIS-REPO" target="_blank">View Repository</a>
+        <a href="https://github.com/Thandokazi-Dlamini/Climate-change-tweet-analysis" target="_blank">View Repository</a>
         <br>
-        <a href="LINK-TO-TWITTER-SENTIMENT-ANALYSIS-NOTEBOOK" target="_blank">View Notebook</a>
+        <a href="https://github.com/Thandokazi-Dlamini/Climate-change-tweet-analysis/blob/main/Climate%20Change%20Tweet%20Analysis.ipynb" target="_blank">View Notebook</a>
       </td>
       <td align="center" width="33%">
-        <img src="LINK-TO-YOUR-IMAGE" alt="Movie Recommender System" style="width:100%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/movie.jpg" alt="Movie Recommender System" style="width:100%">
         <br>
         <h3>Movie Recommender System</h3>
         <span>Pandas · Python · Git</span>
         <br>
-        <a href="LINK-TO-MOVIE-RECOMMENDER-SYSTEM-REPO" target="_blank">View Repository</a>
+        <a href="https://github.com/Thandokazi-Dlamini/Movie-Recommendation-System" target="_blank">View Repository</a>
         <br>
-        <a href="LINK-TO-MOVIE-RECOMMENDER-SYSTEM-NOTEBOOK" target="_blank">View Notebook</a>
+        <a href="https://github.com/Thandokazi-Dlamini/Movie-Recommendation-System/blob/main/Movie%20Recommender%20System.ipynb" target="_blank">View Notebook</a>
       </td>
     </tr>
   </table>
