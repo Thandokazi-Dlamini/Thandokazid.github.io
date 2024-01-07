@@ -13,8 +13,7 @@ Educational Background: I am a proud alumnus of the Explore Data Science Academy
 Technical Skills: My technical toolkit includes Python, SQL, PowerBI, and a strong foundation in statistical analysis. My ability to analyze, report on data, and my keen attention to detail are the cornerstones of my data science proficiency.
 
 ## Portfolio Highlights
-
-## My Recent Works
+This portfolio showcases a range of projects that demonstrate my skills in data science:
 
 <div align="center">
   <table>
