@@ -17,7 +17,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
 
 <div align="center">
   <table>
-    
+    <tr>
       <td align="center" width="33%">
         <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/electric.jpg" alt="Spain's Electricity Shortfall" style="width:100%">
         <br>
