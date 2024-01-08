@@ -109,6 +109,24 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   </table>
 </div>
 
+<div align="center">
+  <h2>Skills</h2>
+  <table>
+    <tr>
+      <!-- Skills -->
+      <td align="center" width="20%">Data Manipulation</td>
+      <td align="center" width="20%">Data Analysis</td>
+      <td align="center" width="20%">Machine Learning</td>
+      <td align="center" width="20%">Deep Learning</td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">Data Visualization</td>
+      <td align="center" width="20%">Statistical Modeling</td>
+      <td align="center" width="20%">Big Data Technologies</td>
+      <td align="center" width="20%">Version Control with Git</td>
+    </tr>
+  </table>
+</div>
 
 
 
