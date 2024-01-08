@@ -84,7 +84,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
 </div>
 
   </table>
-</div>
+
 
 <div align="center">
   <h2>Skills</h2>
