@@ -98,6 +98,13 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/1280px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" style="width:64px;"><br>
         Scikit-learn
       </td>
+            <td align="center" width="20%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/tensor.png" alt="TensorFlow" style="width:64px;"><br>
+        TensorFlow
+      </td>
+      <td align="center" width="20%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/torch.png" alt="PyTorch" style="width:64px;"><br>
+        PyTorch
     </tr>
   </table>
 </div>
