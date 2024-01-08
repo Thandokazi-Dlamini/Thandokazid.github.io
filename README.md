@@ -60,6 +60,47 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   <br>
   <a href="https://thandokazidlamini2.wordpress.com/" target="_blank">Visit Blog</a>
 </td>
+<div align="center">
+  <h2>Skills and Technologies</h2>
+  <table>
+    <tr>
+      <!-- Languages -->
+      <td align="center" width="33%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/Python%20Icon.png" alt="Python" style="width:64px;"><br>
+        Python
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/sql%20icon.png" alt="SQL" style="width:64px;"><br>
+        SQL
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/html%20icon.png" alt="HTML" style="width:64px;"><br>
+        HTML
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <!-- Frameworks -->
+      <td align="center" width="25%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/pandas%20icon.png" alt="Pandas" style="width:64px;"><br>
+        Pandas
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" style="width:64px;"><br>
+        NumPy
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/sci.svg" alt="SciPy" style="width:64px;"><br>
+        SciPy
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/1280px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" style="width:64px;"><br>
+        Scikit-learn
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
