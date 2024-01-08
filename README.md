@@ -83,7 +83,6 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   </table>
 </div>
 
-    </tr>
   </table>
 </div>
 
