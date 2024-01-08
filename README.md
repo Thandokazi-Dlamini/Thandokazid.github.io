@@ -53,7 +53,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   </table>
 </div>
 <td align="center" width="33%">
-  <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/tech-blogs.jpg" alt="Thando Talks Tech Blog" style="width:100%; height: auto;">
+  <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/10258-blogs.webp" alt="Thando Talks Tech Blog" style="width:100%; height: auto;">
   <br>
   <h3>Thando Talks Tech Blog</h3>
   <span>Data Science · Technology · AI</span>
