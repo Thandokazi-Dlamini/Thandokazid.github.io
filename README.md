@@ -48,6 +48,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <br>
         <a href="https://github.com/Thandokazi-Dlamini/Movie-Recommendation-System/blob/main/Movie%20Recommender%20System.ipynb" target="_blank">View Notebook</a>
       </td>
+      
     </tr>
   </table>
 </div>
