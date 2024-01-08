@@ -61,7 +61,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   <a href="https://thandokazidlamini2.wordpress.com/" target="_blank">Visit Blog</a>
 </td>
 <div align="center">
-  <h2>Skills and Technologies</h2>
+  <h2>Languages and Frameworks</h2>
   <table>
     <tr>
       <!-- Languages -->
