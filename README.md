@@ -19,7 +19,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Fgauravduttakiit%2Fsesc-lazypredict&psig=AOvVaw0vvh1Q9TQg889UHAm51aoU&ust=1704810753774000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCPsI6BzoMDFQAAAAAdAAAAABAD" alt="Spain's Electricity Shortfall" style="width:100%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/electric.jpg" alt="Spain's Electricity Shortfall" style="width:100%">
         <br>
         <h3>Spain's Electricity Shortfall</h3>
         <span>Pandas · Python · Git</span>
@@ -29,7 +29,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <a href="https://github.com/Thandokazi-Dlamini/Spain-electricity-shortfall/blob/main/Spain%20Electricity%20Shortfall%20Notebook.ipynb" target="_blank">View Notebook</a>
       </td>
       <td align="center" width="33%">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fyasserh%2Ftwitter-tweets-sentiment-dataset&psig=AOvVaw1EpQNrzIcJqEd-OEnOzGZ9&ust=1704810817331000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODn8quBzoMDFQAAAAAdAAAAABAD" alt="Twitter Sentiment Analysis" style="width:100%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/twitt.jpg" alt="Twitter Sentiment Analysis" style="width:100%">
         <br>
         <h3>Twitter Sentiment Analysis</h3>
         <span>Pandas · Python · Git</span>
@@ -39,7 +39,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <a href="https://github.com/Thandokazi-Dlamini/Climate-change-tweet-analysis/blob/main/Climate%20Change%20Tweet%20Analysis.ipynb" target="_blank">View Notebook</a>
       </td>
       <td align="center" width="33%">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F01%2Fmovie-recommendation-engine-with-nlp%2F&psig=AOvVaw0WccWfcvBtsv0d2bE7nR2N&ust=1704810786311000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPi7rpyBzoMDFQAAAAAdAAAAABAE" alt="Movie Recommender System" style="width:100%">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/movie.jpg" alt="Movie Recommender System" style="width:100%">
         <br>
         <h3>Movie Recommender System</h3>
         <span>Pandas · Python · Git</span>
