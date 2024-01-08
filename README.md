@@ -62,49 +62,27 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
 </td>
 <div align="center">
   <h2>Languages and Frameworks</h2>
-  <table>
+  <table style="border-collapse: collapse; margin: 25px 0; font-size: 0.9em; min-width: 400px; width: 80%; border-radius: 5px 5px 0 0; overflow: hidden; box-shadow: 0 0 20px rgba(0,0,0,0.15);">
     <tr>
       <!-- Languages -->
-      <td align="center" width="33%">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/Python%20Icon.png" alt="Python" style="width:64px;"><br>
-        Python
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/sql%20icon.png" alt="SQL" style="width:64px;"><br>
-        SQL
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/html%20icon.png" alt="HTML" style="width:64px;"><br>
-        HTML
-      </td>
+      <td align="center" style="padding: 12px 15px; background-color: #f3f3f3;">Python</td>
+      <td align="center" style="padding: 12px 15px; background-color: #f3f3f3;">SQL</td>
+      <td align="center" style="padding: 12px 15px; background-color: #f3f3f3;">HTML</td>
     </tr>
-  </table>
-  <table>
     <tr>
       <!-- Frameworks -->
-      <td align="center" width="25%">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/pandas%20icon.png" alt="Pandas" style="width:64px;"><br>
-        Pandas
-      </td>
-      <td align="center" width="25%">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" style="width:64px;"><br>
-        NumPy
-      </td>
-      <td align="center" width="25%">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/sci.svg" alt="SciPy" style="width:64px;"><br>
-        SciPy
-      </td>
-      <td align="center" width="25%">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/1280px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" style="width:64px;"><br>
-        Scikit-learn
-      </td>
-            <td align="center" width="20%">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/tensor.png" alt="TensorFlow" style="width:64px;"><br>
-        TensorFlow
-      </td>
-      <td align="center" width="20%">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/torch.png" alt="PyTorch" style="width:64px;"><br>
-        PyTorch
+      <td align="center" style="padding: 12px 15px;">Pandas</td>
+      <td align="center" style="padding: 12px 15px;">NumPy</td>
+      <td align="center" style="padding: 12px 15px;">Scikit-learn</td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 12px 15px; background-color: #f3f3f3;">TensorFlow</td>
+      <td align="center" style="padding: 12px 15px; background-color: #f3f3f3;">PyTorch</td>
+      <td align="center" style="padding: 12px 15px; background-color: #f3f3f3;"></td> <!-- Empty cell for alignment -->
+    </tr>
+  </table>
+</div>
+
     </tr>
   </table>
 </div>
