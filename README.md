@@ -19,7 +19,8 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/Foto-articulo-Inigo-3-scaled-1.jpeg.webp" alt="Spain's Electricity Shortfall" style="width:100%">
+        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/Foto-articulo-Inigo-3-scaled-1.jpeg.webp" alt="Spain's Electricity Shortfall" 
+         style="width:100%">
         <br>
         <h3>Spain's Electricity Shortfall</h3>
         <span>Pandas · Python · Git</span>
@@ -39,7 +40,8 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <a href="https://github.com/Thandokazi-Dlamini/Climate-change-tweet-analysis/blob/main/Climate%20Change%20Tweet%20Analysis.ipynb" target="_blank">View Notebook</a>
       </td>
       <td align="center" width="33%">
-        <img src="https://andisiwej.github.io/Andisiwe-Portfolio-/Img/movie_recommender.jpg" alt="Movie Recommender System" style="width:100%">
+        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/76889recommender-system-for-movie-recommendation.jpg" alt="Movie Recommender 
+         System" style="width:100%">
         <br>
         <h3>Movie Recommender System</h3>
         <span>Pandas · Python · Git</span>
