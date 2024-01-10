@@ -19,7 +19,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://andisiwej.github.io/Andisiwe-Portfolio-/Img/spain_electricity.jpg.webp" alt="Spain's Electricity Shortfall" style="width:100%">
+        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/Foto-articulo-Inigo-3-scaled-1.jpeg.webp" alt="Spain's Electricity Shortfall" style="width:100%">
         <br>
         <h3>Spain's Electricity Shortfall</h3>
         <span>Pandas · Python · Git</span>
@@ -53,7 +53,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   </table>
 </div>
 <td align="center" width="33%">
-  <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/0662e200-b3ce-11ea-8a26-a558efdcfbe5.png" alt="Thando Talks Tech Blog" style="width:100%; height: auto;">
+  <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.webp" alt="Thando Talks Tech Blog" style="width:100%; height: auto;">
   <br>
   <h3>Thando Talks Tech Blog</h3>
   <span>Data Science · Technology · AI</span>
