@@ -54,24 +54,28 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
     </tr>
   </table>
 </div>
-<td align="center" style="width: 300px;">
-  <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.webp" alt="Thando Talks Tech Blog" style="width:300px; max-width:100%; height:auto;">
-  <br>
-  <h3>Thando Talks Tech Blog</h3>
-  <span>Data Science · Technology · AI</span>
-  <br>
-  <a href="https://thandokazidlamini2.wordpress.com/" target="_blank">Visit Blog</a>
-</td>
-
-<td align="center" style="width: 300px;">
- <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme/main/British-Airways-Logo.png" alt="British Airways Virtual Experience Programme" style="width:300px; max-width:100%; height:auto;">
-  <br>
-  <h3>British Airways Virtual Experience Programme</h3>
-  <span>Data Science · Machine Learning · Python</span>
-  <br>
-  <!-- Replace with the URL to your GitHub repository -->
-  <a href="https://github.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme" target="_blank">View Project</a>
-</td>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="width: 300px;">
+        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.webp" alt="Thando Talks Tech Blog" style="width:300px; max-width:100%; height:auto;">
+        <br>
+        <h3>Thando Talks Tech Blog</h3>
+        <span>Data Science · Technology · AI</span>
+        <br>
+        <a href="https://thandokazidlamini2.wordpress.com/" target="_blank">Visit Blog</a>
+      </td>
+      <td align="center" style="width: 300px;">
+        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme/main/British-Airways-Logo.png" alt="British Airways Virtual Experience Programme" style="width:300px; max-width:100%; height:auto;">
+        <br>
+        <h3>British Airways Virtual Experience Programme</h3>
+        <span>Data Science · Machine Learning · Python</span>
+        <br>
+        <a href="https://github.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme" target="_blank">View Project</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <h2>Languages and Frameworks</h2>
