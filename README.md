@@ -18,9 +18,9 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" style="width: 300px;">
         <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/Foto-articulo-Inigo-3-scaled-1.jpeg.webp" alt="Spain's Electricity Shortfall" 
-         style="width:300px; height:auto;">
+         style="width:300px; max-width:100%; height:auto;">
         <br>
         <h3>Spain's Electricity Shortfall</h3>
         <span>Pandas · Python · Git</span>
@@ -29,8 +29,8 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <br>
         <a href="https://github.com/Thandokazi-Dlamini/Spain-electricity-shortfall/blob/main/Spain%20Electricity%20Shortfall%20Notebook.ipynb" target="_blank">View Notebook</a>
       </td>
-      <td align="center" width="33%">
-        <img src="https://andisiwej.github.io/Andisiwe-Portfolio-/Img/twitter_analysis.jpg.jpg" alt="Twitter Sentiment Analysis" style="width:300px; height:auto;">
+      <td align="center" style="width: 300px;">
+        <img src="https://andisiwej.github.io/Andisiwe-Portfolio-/Img/twitter_analysis.jpg.jpg" alt="Twitter Sentiment Analysis" style="width:300px; max-width:100%; height:auto;">
         <br>
         <h3>Twitter Sentiment Analysis</h3>
         <span>Pandas · Python · Git</span>
@@ -39,9 +39,9 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <br>
         <a href="https://github.com/Thandokazi-Dlamini/Climate-change-tweet-analysis/blob/main/Climate%20Change%20Tweet%20Analysis.ipynb" target="_blank">View Notebook</a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" style="width: 300px;">
         <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/76889recommender-system-for-movie-recommendation.jpg" alt="Movie Recommender 
-         System" style="width:300px; height:auto;">
+         System" style="width:300px; max-width:100%; height:auto;">
         <br>
         <h3>Movie Recommender System</h3>
         <span>Pandas · Python · Git</span>
@@ -54,8 +54,8 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
     </tr>
   </table>
 </div>
-<td align="center" width="33%">
-  <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.webp" alt="Thando Talks Tech Blog" style="width:100%; height: auto;">
+<td align="center" style="width: 300px;">
+  <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.webp" alt="Thando Talks Tech Blog" style="width:300px; max-width:100%; height:auto;">
   <br>
   <h3>Thando Talks Tech Blog</h3>
   <span>Data Science · Technology · AI</span>
@@ -63,9 +63,8 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   <a href="https://thandokazidlamini2.wordpress.com/" target="_blank">Visit Blog</a>
 </td>
 
-<td align="center" width="33%">
-  <!-- Replace with your project image URL -->
-  <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme/main/British-Airways-Logo.png" alt="British Airways Virtual Experience Programme" style="width:100%">
+<td align="center" style="width: 300px;">
+ <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme/main/British-Airways-Logo.png" alt="British Airways Virtual Experience Programme" style="width:300px; max-width:100%; height:auto;">
   <br>
   <h3>British Airways Virtual Experience Programme</h3>
   <span>Data Science · Machine Learning · Python</span>
