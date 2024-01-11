@@ -106,6 +106,16 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
     </tr>
   </table>
 </div>
+<td align="center" width="33%">
+  <!-- Replace with your project image URL -->
+  <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme/main/British-Airways-Logo.png" alt="British Airways Virtual Experience Programme" style="width:100%">
+  <br>
+  <h3>British Airways Virtual Experience Programme</h3>
+  <span>Data Science · Machine Learning · Python</span>
+  <br>
+  <!-- Replace with the URL to your GitHub repository -->
+  <a href="https://github.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme" target="_blank">View Project</a>
+</td>
 
 
 
