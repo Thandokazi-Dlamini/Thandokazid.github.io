@@ -62,6 +62,18 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   <br>
   <a href="https://thandokazidlamini2.wordpress.com/" target="_blank">Visit Blog</a>
 </td>
+
+<td align="center" width="33%">
+  <!-- Replace with your project image URL -->
+  <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme/main/British-Airways-Logo.png" alt="British Airways Virtual Experience Programme" style="width:100%">
+  <br>
+  <h3>British Airways Virtual Experience Programme</h3>
+  <span>Data Science · Machine Learning · Python</span>
+  <br>
+  <!-- Replace with the URL to your GitHub repository -->
+  <a href="https://github.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme" target="_blank">View Project</a>
+</td>
+
 <div align="center">
   <h2>Languages and Frameworks</h2>
   <table style="border-collapse: collapse; margin: 25px 0; font-size: 0.9em; min-width: 400px; width: 80%; border-radius: 5px 5px 0 0; overflow: hidden; box-shadow: 0 0 20px rgba(0,0,0,0.15);">
@@ -106,16 +118,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
     </tr>
   </table>
 </div>
-<td align="center" width="33%">
-  <!-- Replace with your project image URL -->
-  <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme/main/British-Airways-Logo.png" alt="British Airways Virtual Experience Programme" style="width:100%">
-  <br>
-  <h3>British Airways Virtual Experience Programme</h3>
-  <span>Data Science · Machine Learning · Python</span>
-  <br>
-  <!-- Replace with the URL to your GitHub repository -->
-  <a href="https://github.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme" target="_blank">View Project</a>
-</td>
+
 
 
 
