@@ -128,5 +128,10 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <a href="mailto:thandokazidlamini01@gmail.com">Send an email</a>
     </div>
 
+ <div id="social-media">
+        <h2>Connect With Me</h2>
+        <a href="https://www.linkedin.com/in/thandokazi-dlamini" target="_blank">LinkedIn</a>
+        <!-- Add other social media links if necessary -->
+    </div>
 
 
