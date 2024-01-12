@@ -128,13 +128,12 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <a href="thandokazidlamini01@gmail.com">thandokazidlamini01@gmail.com</a>
     </div>
 
-    <!-- Professional Networking Profiles -->
-    <div id="social-media">
-        <h2>Connect With Me</h2>
-        <a href=www.linkedin.com/in/thandokazi-dlamini
-"" target="_blank">LinkedIn</a>
-        <a href="https://www.github.com/Thandokazi-Dlamini" target="_blank">GitHub</a>
-    </div>
+<!-- Professional Networking Profiles -->
+<div id="social-media">
+    <h2>Connect With Me</h2>
+    <a href="https://www.linkedin.com/in/thandokazi-dlamini" target="_blank">LinkedIn</a>
+</div>
+
     /* Contact Information and Social Media Styling */
 
 #contact, #social-media {
