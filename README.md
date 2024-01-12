@@ -122,46 +122,11 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   </table>
 </div>
 
-    <div id="contact">
+   <div id="contact">
         <h2>Contact Me</h2>
-        <p>Excited about data science and collaboration? Let's connect and explore the world of data together! Feel free to reach out for any discussions or opportunities</p>
-        <a href="thandokazidlamini01@gmail.com">thandokazidlamini01@gmail.com</a>
+        <p>Excited about data science and collaboration? Let's connect and explore the world of data together! Feel free to reach out for any discussions or opportunities.</p>
+        <a href="mailto:thandokazidlamini01@gmail.com">thandokazidlamini01@gmail.com</a>
     </div>
-
-<!-- Professional Networking Profiles -->
-<div id="social-media">
-    <h2>Connect With Me</h2>
-    <a href="https://www.linkedin.com/in/thandokazi-dlamini" target="_blank">LinkedIn</a>
-</div>
-
-    /* Contact Information and Social Media Styling */
-
-#contact, #social-media {
-    margin: 20px;
-    padding: 20px;
-    background-color: #f0f0f0;
-    border-radius: 10px;
-    text-align: center;
-}
-
-#contact h2, #social-media h2 {
-    color: #333;
-}
-
-#contact a, #social-media a {
-    display: inline-block;
-    margin: 10px;
-    padding: 10px;
-    background-color: #4CAF50;
-    color: white;
-    border-radius: 5px;
-    text-decoration: none;
-}
-
-#contact a:hover, #social-media a:hover {
-    background-color: #45a049;
-}
-
 
 
 
