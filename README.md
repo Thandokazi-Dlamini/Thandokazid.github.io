@@ -77,6 +77,18 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   </table>
 </div>
 
+<td align="center" style="width: 300px;">
+        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Integrated-Project/main/Facilitating-payments-for-the-insurance-industry-while-supporting-consumers-rights-1024x683.jpeg" alt="Integrated Project" style="width:300px; max-width:100%; height:auto;">
+        <br>
+        <h3>Integrated Project</h3>
+        <span>Data Science · Insurance Analysis</span>
+        <br>
+        <a href="https://github.com/Thandokazi-Dlamini/Integrated-Project" target="_blank">View Project</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <h2>Languages and Frameworks</h2>
   <table style="border-collapse: collapse; margin: 25px 0; font-size: 0.9em; min-width: 400px; width: 80%; border-radius: 5px 5px 0 0; overflow: hidden; box-shadow: 0 0 20px rgba(0,0,0,0.15);">
