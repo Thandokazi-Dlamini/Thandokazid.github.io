@@ -73,9 +73,6 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <br>
         <a href="https://github.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme" target="_blank">View Project</a>
       </td>
-    </tr>
-  </table>
-</div>
 
 <td align="center" style="width: 300px;">
         <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Integrated-Project/main/Facilitating-payments-for-the-insurance-industry-while-supporting-consumers-rights-1024x683.jpeg" alt="Integrated Project" style="width:300px; max-width:100%; height:auto;">
