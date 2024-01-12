@@ -131,7 +131,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
 <div id="social-media">
     <h2>Connect With Me</h2>
     <p>Interested in the synergy of ideas and sharing insights in the realm of data science? Connect with me on LinkedIn for professional updates and networking opportunities. Let’s build a community of knowledge and innovation together!</p>
-    <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">LinkedIn</a>
+    <a href="www.linkedin.com/in/thandokazi-dlamini" target="_blank">LinkedIn</a>
   
 </div>
 
