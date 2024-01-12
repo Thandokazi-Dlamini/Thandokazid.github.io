@@ -125,7 +125,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
    <div id="contact">
         <h2>Contact Me</h2>
         <p>Excited about data science and collaboration? Let's connect and explore the world of data together! Feel free to reach out for any discussions or opportunities.</p>
-        <a href="mailto:thandokazidlamini01@gmail.com">thandokazidlamini01@gmail.com</a>
+        <a href="mailto:thandokazidlamini01@gmail.com">Send an email</a>
     </div>
 
 
