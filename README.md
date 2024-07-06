@@ -16,9 +16,11 @@ Technical Skills: My technical toolkit includes Python, SQL, PowerBI, and a stro
 This portfolio showcases a range of projects that demonstrate my skills in data science:
 
 
+ <div align="center">
+  <table>
     <tr>
       <td align="center" style="width: 300px;">
-        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/Benefits-of-Knowledge-Base-for-Call-Centers.jpg" alt="PwC Call Center Data Analysis Dashboard" style="width:300px; max-width:100%; height:auto;">
+        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Call-Center-Data-Analysis-Dashboard/main/PwC%20Call%20Center%20Data%20Analysis%20Dashboard.pdf" alt="PwC Call Center Data Analysis Dashboard" style="width:300px; max-width:100%; height:auto;">
         <br>
         <h3>PwC Call Center Data Analysis Dashboard</h3>
         <span>Data Analysis · Power BI Dashboard · Excel</span>
@@ -28,6 +30,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
       <td align="center" style="width: 300px;">
         <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/Foto-articulo-Inigo-3-scaled-1.jpeg.webp" alt="Spain's Electricity Shortfall" style="width:300px; max-width:100%; height:auto;">
         <br>
+
         <h3>Spain's Electricity Shortfall</h3>
         <span>Pandas · Python · Git</span>
         <br>
