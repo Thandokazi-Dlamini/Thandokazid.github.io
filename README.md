@@ -20,7 +20,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   <table>
     <tr>
       <td align="center" style="width: 300px;">
-        <img src="https://static.vecteezy.com/system/resources/thumbnails/030/762/708/small/female-african-american-customer-support-agent-working-at-a-call-center-generative-ai-photo.jpg" alt="PwC Call Center Data Analysis Dashboard" style="width:400px; max-width:100%; height:auto;">
+        <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iobpRRUKe5Ks/v1/-1x-1.jpg" alt="PwC Call Center Data Analysis Dashboard" style="width:300px; max-width:100%; height:auto;">
         <br>
         <h3>PwC Call Center Data Analysis Dashboard</h3>
         <span>Data Analysis · Power BI Dashboard · Excel</span>
