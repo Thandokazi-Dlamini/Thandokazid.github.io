@@ -20,7 +20,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
   <table>
     <tr>
       <td align="center" style="width: 300px;">
-        <img src="https://github.com/Thandokazi-Dlamini/Call-Center-Data-Analysis-Dashboard/blob/main/PwC_Call_Center_Dashboard.jpg" alt="PwC Call Center Data Analysis Dashboard" style="width:300px; max-width:100%; height:auto;">
+        <img src="https://github.com/Thandokazi-Dlamini/Thandokazid.github.io/blob/main/Benefits-of-Knowledge-Base-for-Call-Centers.jpg" alt="PwC Call Center Data Analysis Dashboard" style="width:300px; max-width:100%; height:auto;">
         <br>
         <h3>PwC Call Center Data Analysis Dashboard</h3>
         <span>Data Analysis · Power BI Dashboard · Excel</span>
