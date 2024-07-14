@@ -25,6 +25,14 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <h3>PwC Call Center Data Analysis Dashboard</h3>
         <span>Data Analysis · Power BI Dashboard · Excel</span>
         <br>
+             <td align="center" style="width: 300px;">
+        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Thandokazid.github.io/main/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.webp" alt="Thando Talks Tech Blog" style="width:300px; max-width:100%; height:auto;">
+        <br>
+        <h3>Thando Talks Tech Blog</h3>
+        <span>Data Science · Technology · AI</span>
+        <br>
+        <a href="https://thandokazidlamini2.wordpress.com/" target="_blank">Visit Blog</a>
+      </td>
         <a href="https://github.com/Thandokazi-Dlamini/Call-Center-Data-Analysis-Dashboard/blob/main/PwC%20Call%20Center%20Data%20Analysis%20Dashboard.pdf" target="_blank">View PDF</a>
       </td>
       <td align="center" style="width: 300px;">
