@@ -25,6 +25,8 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <h3>PwC Call Center Data Analysis Dashboard</h3>
         <span>Data Analysis · Power BI Dashboard · Excel</span>
         <br>
+        <a href="https://github.com/Thandokazi-Dlamini/Call-Center-Data-Analysis-Dashboard/blob/main/PwC%20Call%20Center%20Data%20Analysis%20Dashboard.pdf" target="_blank">View PDF</a>
+      </td>
           <td align="center" style="width: 300px;">
         <img src="https://www.banking.org.za/wp-content/uploads/2019/06/eskom.jpg" alt="Eskom Visualisation Project" style="width:300px; max-width:100%; height:auto;">
         <br>
