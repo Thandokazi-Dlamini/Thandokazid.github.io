@@ -55,7 +55,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <a href="https://github.com/Thandokazi-Dlamini/British-Airways-Virtual-Experience-Programme" target="_blank">View Project</a>
       </td>
       <td align="center" style="width: 300px;">
-        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Integrated-Project/main/Facilitating-payments-for-the-insurance-industry-while-supporting-consumers-rights-1024x683.jpeg" alt="Integrated Project" style="width:300px; max-width:100%; height:auto;">
+        <img src="https://raw.githubusercontent.com/Thandokazi-Dlamini/Integrated-Project/main/Facilitating-payments-for-the-insurance-industry-while-supporting-consumers-rights-1024x683.jpeg" alt="Insurance Industry in Africa Project" style="width:300px; max-width:100%; height:auto;">
         <br>
         <h3>Insurance Industry in Africa Project</h3>
         <span>Data Science · Insurance Analysis</span>
@@ -71,8 +71,33 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <a href="https://thandokazidlamini2.wordpress.com/" target="_blank">Visit Blog</a>
       </td>
     </tr>
+    <!-- New Row with 2 Projects -->
+    <tr>
+      <td align="center" style="width: 300px;">
+        <img src="https://cms.cnbcafrica.com/wp-content/uploads/2023/01/MK64OLDHRZI2LCLTTB33FOO77I.jpg" alt="Spain Electricity Shortfall Project" style="width:300px; max-width:100%; height:auto;">
+        <br>
+        <h3>Spain Electricity Shortfall Project</h3>
+        <span>Data Science · Python · Analysis</span>
+        <br>
+        <a href="https://github.com/Thandokazi-Dlamini/Spain-electricity-shortfall" target="_blank">View Project</a>
+        <br>
+        <a href="https://github.com/Thandokazi-Dlamini/Spain-electricity-shortfall/blob/main/Spain%20Electricity%20Shortfall%20Notebook.ipynb" target="_blank">View Notebook</a>
+      </td>
+      <td align="center" style="width: 300px;">
+        <img src="https://i0.wp.com/www.trackmyhashtag.com/blog/wp-content/uploads/2019/09/Twitter-datasets-free-and-paid-1.jpg?w=815&ssl=1" alt="Climate Change Sentiment Analysis Project" style="width:300px; max-width:100%; height:auto;">
+        <br>
+        <h3>Climate Change Sentiment Analysis</h3>
+        <span>Data Science · NLP · Python</span>
+        <br>
+        <a href="https://github.com/Thandokazi-Dlamini/Climate-change-tweet-analysis" target="_blank">View Project</a>
+        <br>
+        <a href="https://github.com/Thandokazi-Dlamini/Climate-change-tweet-analysis/blob/main/Climate%20Change%20Tweet%20Analysis.ipynb" target="_blank">View Notebook</a>
+      </td>
+      <td align="center" style="width: 300px;"></td> <!-- Empty cell for alignment -->
+    </tr>
   </table>
 </div>
+
 
 <div align="center">
   <h2>Languages and Frameworks</h2>
