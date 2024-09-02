@@ -71,7 +71,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
         <a href="https://thandokazidlamini2.wordpress.com/" target="_blank">Visit Blog</a>
       </td>
     </tr>
-  
+    <!-- New Row with 2 Projects -->
     <tr>
       <td align="center" style="width: 300px;">
         <img src="https://cms.cnbcafrica.com/wp-content/uploads/2023/01/MK64OLDHRZI2LCLTTB33FOO77I.jpg" alt="Spain Electricity Shortfall Project" style="width:300px; max-width:100%; height:auto;">
@@ -97,6 +97,7 @@ This portfolio showcases a range of projects that demonstrate my skills in data 
     </tr>
   </table>
 </div>
+
 
 
 <div align="center">
